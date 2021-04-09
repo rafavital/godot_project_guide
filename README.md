@@ -73,4 +73,8 @@ where:
 | Shader Material | \_shader |  |
 | Spatial Material | \_spatial |  |
 
+# References
+https://github.com/Allar/ue4-style-guide#asset-name-modifiers
+https://bebylon.dev/ue4guide/wip/assets-naming-convention/
+https://www.gdquest.com/docs/guidelines/best-practices/godot-gdscript/
 
